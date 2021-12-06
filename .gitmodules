@@ -1,0 +1,12 @@
+[submodule "movies-react-project"]
+	path = movies-react-project
+	url = git@github.com:somekindofwallflower/movies-react-project.git
+[submodule "course-goals-react-project"]
+	path = course-goals-react-project
+	url = git@github.com:somekindofwallflower/course-goals-react-project.git
+[submodule "expenses-react-project"]
+	path = expenses-react-project
+	url = git@github.com:somekindofwallflower/expenses-react-project.git
+[submodule "food-order-react-project"]
+	path = food-order-react-project
+	url = git@github.com:somekindofwallflower/food-order-react-project.git
